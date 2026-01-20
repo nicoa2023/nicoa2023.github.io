@@ -1,6 +1,12 @@
 {
-  "name": "Mi Repo MSX",
+  "name": "Mi menú MSX",
   "version": "1.0",
-  "menu": "menu.json"
+  "items": [
+    {
+      "type": "page",
+      "title": "Menú principal",
+      "url": "https://nicoa2023.github.io/menu.json"
+    }
+  ]
 }
 
