@@ -1,6 +1,7 @@
 {
   "name": "Mi menú MSX",
   "version": "1.0",
+  "parameter": "https://nicoa2023.github.io/menu.json"
   "items": [
     {
       "type": "page",
